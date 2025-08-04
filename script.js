@@ -1,3 +1,5 @@
+// Script principal da calculadora desenvolvido por Pamella Fraga 💚
+
 function append(value) {
   document.getElementById("display").value += value;
 }
