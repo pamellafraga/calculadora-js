@@ -2,7 +2,7 @@
 
 Uma **calculadora simples** desenvolvida com **HTML, CSS e JavaScript**, que realiza as operações matemáticas básicas: **adição, subtração, multiplicação e divisão**.
 
-![Calculadora Preview](https://via.placeholder.com/800x400?text=Preview+da+Calculadora)
+![Calculadora Preview](https://pamellafraga.github.io/calculadora-js/))
 
 ---
 
